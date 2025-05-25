@@ -10,7 +10,7 @@ export default function Footer() {
           <div className="md:col-span-4">
             <h2 className="text-2xl font-bold text-white bg-pink p-2 table px-3 rounded-lg mb-2">F</h2>
             <p className="text-zinc-400 mb-6">
-              I use animation as a third dimension by which to simplify experiences and kuiding thro each and every interaction.
+Turning ideas into beautiful UI – Front-End Developer
             </p>
 
             <div className="flex gap-3">
@@ -65,62 +65,9 @@ export default function Footer() {
             </ul>
           </div>
 
-          <div className="md:col-span-3">
-            <h6 className="text-lg font-bold text-white mb-4">Resources</h6>
-            <ul className="space-y-3">
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Authentication
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  System Status
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Terms of Service
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Pricing
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Over Right
-                </Link>
-              </li>
-            </ul>
-          </div>
+         
 
-          <div className="md:col-span-3">
-            <h6 className="text-lg font-bold text-white mb-4">Developers</h6>
-            <ul className="space-y-3">
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Documentation
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  API References
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  API Status
-                </Link>
-              </li>
-              <li>
-                <Link href="/" className="text-zinc-400 hover:text-white transition-colors">
-                  Open Source
-                </Link>
-              </li>
-            </ul>
-          </div>
+          
         </div>
 
         <div className="border-t border-dark-lighter mt-12 pt-6 text-center">
