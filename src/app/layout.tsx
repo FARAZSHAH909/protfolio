@@ -15,7 +15,7 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: "InBio - Personal Portfolio",
+  title: "Personal Portfolio",
   description: "A personal portfolio showcasing my skills and experience",
 };
 
