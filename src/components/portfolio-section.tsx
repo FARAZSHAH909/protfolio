@@ -57,15 +57,15 @@ export default function PortfolioSection() {
     <section id="portfolio" className="py-16">
       <div className="container max-w-7xl mx-auto px-6">
         <div className="text-center mb-8">
-          <span className="text-sm text-zinc-400 mb-3 inline-block">Visit my portfolio and keep your feedback</span>
-          <h2 className="text-4xl md:text-5xl font-bold heading-gradient">My Portfolio</h2>
+          <span className="text-sm text-zinc-400 mb-3 inline-block">Visit my Project and keep your feedback</span>
+          <h2 className="text-4xl md:text-5xl font-bold heading-gradient">My Project </h2>
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
 <PortfolioItem
   title="Trend Dashboard"
-  category="Web Application"
-  image="/trend-dashboard.png"
+  category="Web Application Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpegg"
   likes={1245}
   link="https://trand-dashboard-frontend.vercel.app/dashboard"
   passwordProtected={false}
@@ -73,8 +73,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="SwiftRide"
-  category="Web Application"
-  image="/swiftride.png"
+  category="Web Application Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={1103}
   link="https://swiftride-phi.vercel.app/"
   passwordProtected={false}
@@ -82,8 +82,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="ShopVista"
-  category="E-Commerce"
-  image="/shopvista.png"
+  category="E-Commerce Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={987}
   link="https://shopvista-eight.vercel.app/"
   passwordProtected={false}
@@ -91,8 +91,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="RecipeHub"
-  category="Web Application"
-  image="/recipehub.png"
+  category="Web Application Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpegg"
   likes={1024}
   link="https://recipehub-three.vercel.app/"
   passwordProtected={false}
@@ -100,8 +100,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="Task Management (Frontend)"
-  category="Productivity"
-  image="/task-frontend.png"
+  category="Productivity Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={880}
   link="https://task-management-frontend-mauve-two.vercel.app/"
   passwordProtected={false}
@@ -109,8 +109,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="Task Management (Backend)"
-  category="Productivity"
-  image="/task-backend.png"
+  category="Productivity Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={935}
   link="https://task-management-pi-pearl.vercel.app/login"
   passwordProtected={false}
@@ -118,8 +118,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="Gitex Driver User App"
-  category="Web Application"
-  image="/gitex.png"
+  category="Web Application Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={1168}
   link="https://gitexdriver.vercel.app/"
   passwordProtected={false}
@@ -127,8 +127,8 @@ export default function PortfolioSection() {
 
 <PortfolioItem
   title="Cara Mart (Online Marketplace)"
-  category="E-Commerce"
-  image="/caramart.png"
+  category="E-Commerce Click Here"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={1200}
   link="https://cart-mart.netlify.app/login.html"
   passwordProtected={false}
