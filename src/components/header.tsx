@@ -22,7 +22,7 @@ export default function Header() {
             Features
           </Link>
           <Link href="#portfolio" className="text-zinc-300 hover:text-white transition-colors">
-            Portfolio
+            Project
           </Link>
           <Link href="#resume" className="text-zinc-300 hover:text-white transition-colors">
             Resume
