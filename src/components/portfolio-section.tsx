@@ -62,54 +62,78 @@ export default function PortfolioSection() {
         </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-          <PortfolioItem
-            title="Gitex  Driver User App"
-            category="Gallery"
-            image="/gitex.png"
-            likes={1168}
-            link="https://gitex-seven.vercel.app/"
-            passwordProtected={true}
-          />
+<PortfolioItem
+  title="Trend Dashboard"
+  category="Web Application"
+  image="/trend-dashboard.png"
+  likes={1245}
+  link="https://trand-dashboard-frontend.vercel.app/dashboard"
+  passwordProtected={false}
+/>
 
-          <PortfolioItem
-            title="Online Food Delivery Mobile App Design."
-            category="Video"
-            image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
-            likes={561}
-            link="https://food-website-one-rho.vercel.app/"
-          />
+<PortfolioItem
+  title="SwiftRide"
+  category="Web Application"
+  image="/swiftride.png"
+  likes={1103}
+  link="https://swiftride-phi.vercel.app/"
+  passwordProtected={false}
+/>
 
-          <PortfolioItem
-            title="Gitex  Driver Admin App"
-            category="External Link"
-            image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
-            likes={561}
-            link="https://gitex-diver.vercel.app/"
-          />
+<PortfolioItem
+  title="ShopVista"
+  category="E-Commerce"
+  image="/shopvista.png"
+  likes={987}
+  link="https://shopvista-eight.vercel.app/"
+  passwordProtected={false}
+/>
 
-          <PortfolioItem
-            title="Quiz-App Design "
-            category="Image"
-            image="https://ext.same-assets.com/3856146916/381643791.jpeg"
-            likes={736}
-            link="https://try-quiz-app-demo.netlify.app/"
-          />
+<PortfolioItem
+  title="RecipeHub"
+  category="Web Application"
+  image="/recipehub.png"
+  likes={1024}
+  link="https://recipehub-three.vercel.app/"
+  passwordProtected={false}
+/>
 
-          <PortfolioItem
-            title="Cart-Mart Design."
-            category="Gallery"
-            image="https://ext.same-assets.com/3856146916/912725668.jpeg"
-            likes={667}
-            link="https://cart-mart.netlify.app/"
-          />
+<PortfolioItem
+  title="Task Management (Frontend)"
+  category="Productivity"
+  image="/task-frontend.png"
+  likes={880}
+  link="https://task-management-frontend-mauve-two.vercel.app/"
+  passwordProtected={false}
+/>
 
-          <PortfolioItem
-            title="vyrva-music-app"
-            category="Standard"
-            image="https://ext.same-assets.com/3856146916/834879061.jpeg"
-            likes={429}
-            link="https://vyrva-music-app.netlify.app/"
-          />
+<PortfolioItem
+  title="Task Management (Backend)"
+  category="Productivity"
+  image="/task-backend.png"
+  likes={935}
+  link="https://task-management-pi-pearl.vercel.app/login"
+  passwordProtected={false}
+/>
+
+<PortfolioItem
+  title="Gitex Driver User App"
+  category="Web Application"
+  image="/gitex.png"
+  likes={1168}
+  link="https://gitexdriver.vercel.app/"
+  passwordProtected={false}
+/>
+
+<PortfolioItem
+  title="Cara Mart (Online Marketplace)"
+  category="E-Commerce"
+  image="/caramart.png"
+  likes={1200}
+  link="https://cart-mart.netlify.app/login.html"
+  passwordProtected={false}
+/>
+
         </div>
       </div>
     </section>
