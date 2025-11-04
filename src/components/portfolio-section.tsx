@@ -112,7 +112,7 @@ export default function PortfolioSection() {
   category="Productivity Click Here"
   image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={935}
-  link="https://task-management-pi-pearl.vercel.app/login"
+  link="https://task-management-pi-pearl.vercel.app"
   passwordProtected={false}
 />
 
