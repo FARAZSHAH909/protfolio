@@ -10,7 +10,7 @@ export default function Header() {
   href="/" 
   className="text-2xl font-bold text-white bg-pink p-2  px-3 rounded-lg"
 >
-  F
+  FS
 </Link>
 
 
