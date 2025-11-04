@@ -92,7 +92,7 @@ export default function ResumeSection() {
                     period="CERTIFI CATION"
                     title="SMIT (SAYLANI MASS IT Training) "
                     institution="Certification in Web Development & App Development - SMIT
-                  (Saylani Mass IT Center) —In Progress"
+                  (Saylani Mass IT Center) "
                   
                   />
                 </CardContent>
@@ -103,18 +103,18 @@ export default function ResumeSection() {
                   <h3 className="text-2xl font-bold text-white mb-8">Job Experience</h3>
 
                   <EducationItem
-                    period="January 2025 – Present"
+                    period="January 2025 "
                     title="Frontend Developer (Intern) | 360XpertSolution"
                     institution="Building responsive web interfaces and working on improving user experience."
                     location="January 2025"
                   />
 
                   <EducationItem
-                    period="January 2023 – August 2024"
-                    title="QC/QA Executive | Transsion Tecno Electronics"
-                    institution="Tested products, found problems, and helped improve processes."
-                    location="January 2023 – August 2024"
-                  />
+  period="2025 – Present"
+  title="Tech Assignment Developer | Cloud Innovators Solution (CIS)"
+  institution="Responsible for developing and delivering web applications, websites, and other technical solutions for CIS and Source Code clients. Focused on writing clean, scalable code and ensuring timely project delivery."
+  location="Karachi, Pakistan"
+/>
 
                 </CardContent>
               </Card>
