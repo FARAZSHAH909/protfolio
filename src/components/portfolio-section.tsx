@@ -65,7 +65,7 @@ export default function PortfolioSection() {
 <PortfolioItem
   title="Trend Dashboard"
   category="Web Application Click Here"
-  image="https://ext.same-assets.com/3856146916/1153871961.jpegg"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={1245}
   link="https://trand-dashboard-frontend.vercel.app/dashboard"
   passwordProtected={false}
@@ -92,7 +92,7 @@ export default function PortfolioSection() {
 <PortfolioItem
   title="RecipeHub"
   category="Web Application Click Here"
-  image="https://ext.same-assets.com/3856146916/1153871961.jpegg"
+  image="https://ext.same-assets.com/3856146916/1153871961.jpeg"
   likes={1024}
   link="https://recipehub-three.vercel.app/"
   passwordProtected={false}
