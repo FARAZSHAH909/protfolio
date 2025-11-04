@@ -18,12 +18,15 @@ const PortfolioItem = ({ title, category, image, likes, link, passwordProtected 
     <Card className="bg-dark border-none overflow-hidden rounded-xl group">
       <div className="relative">
         <div className="aspect-[4/3] relative overflow-hidden">
-          <Image
+          <Link href={link} className="text-white hover:text-pink transition-colors">
+            <Image
             src={image}
             alt={title}
             fill
             className="object-cover transition-transform duration-500 group-hover:scale-110"
           />
+          </Link>
+         
         </div>
 
         <div className="absolute top-5 left-5">
