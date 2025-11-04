@@ -18,7 +18,7 @@ const PortfolioItem = ({ title, category, image, likes, link, passwordProtected 
     <Card className="bg-dark border-none overflow-hidden rounded-xl group">
       <div className="relative">
         <div className="aspect-[4/3] relative overflow-hidden">
-          <Link href={link} className="text-white hover:text-pink transition-colors">
+          <Link href={link} target="_blank" className="text-white hover:text-pink transition-colors">
             <Image
             src={image}
             alt={title}
@@ -44,7 +44,7 @@ const PortfolioItem = ({ title, category, image, likes, link, passwordProtected 
 
       <CardContent className="p-6">
         <h3 className="text-xl font-bold mb-4">
-          <Link href={link} className="text-white hover:text-pink transition-colors">
+          <Link href={link} target="_blank" className="text-white hover:text-pink transition-colors">
             {title}
           </Link>
         </h3>
